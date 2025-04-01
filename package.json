@@ -9,7 +9,7 @@
     "@babel/runtime": "^7.3.1",
     "highlight.js": "^11.0.0",
     "highlightjs-vue": "^1.0.0",
-    "lowlight": "^1.17.0",
+    "lowlight": "^3.3.0",
     "prismjs": "^1.27.0",
     "refractor": "^3.6.0"
   },
