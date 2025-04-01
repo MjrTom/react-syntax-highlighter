@@ -47,7 +47,7 @@
     "react": "^19.1.0",
     "react-dom": "^15.2.0",
     "react-syntax-highlighter-virtualized-renderer": "^1.0.3",
-    "react-test-renderer": "^15.3.2",
+    "react-test-renderer": "^19.1.0",
     "request": "^2.88.0",
     "style-loader": "^0.13.0",
     "to-camel-case": "^1.0.0",
